@@ -1,0 +1,73 @@
+.ig-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.post {
+    
+    width: 500px;
+    height: 690px;
+    margin-top: 50px;
+    border-radius: 1px;
+    border: 1px solid gray;
+   
+    
+}
+
+.post-header {
+    display: flex;
+    margin: 0;
+    padding:10px 10px;
+
+    
+}
+.logo{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:45px;
+}
+
+
+
+
+.icons0 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-size: 35px;
+    margin-left: auto;
+    
+}
+
+
+.post-icons{
+    
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    font-size: 35px;
+    justify-content: space-between;
+
+   
+    
+}
+.post-body{
+    
+    padding: 20px;
+    height:200px;
+    align-content: center;
+    margin:0px;
+    
+   
+}
+.text{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p,h3{
+    margin: 0;
+}
